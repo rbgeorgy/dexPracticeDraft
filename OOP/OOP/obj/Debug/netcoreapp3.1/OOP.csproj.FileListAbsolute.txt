@@ -1,0 +1,13 @@
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.deps.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.dev.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/bin/Debug/netcoreapp3.1/OOP.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.csprojAssemblyReference.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfoInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfo.cs
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.csproj.CoreCompileInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/OOP/OOP/obj/Debug/netcoreapp3.1/OOP.genruntimeconfig.cache
