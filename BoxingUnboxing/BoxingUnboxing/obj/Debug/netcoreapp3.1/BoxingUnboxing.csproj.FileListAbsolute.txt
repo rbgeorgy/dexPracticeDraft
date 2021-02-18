@@ -1,0 +1,13 @@
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.deps.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.runtimeconfig.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.runtimeconfig.dev.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.csprojAssemblyReference.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.AssemblyInfoInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.AssemblyInfo.cs
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.genruntimeconfig.cache
