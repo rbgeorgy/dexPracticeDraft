@@ -1,0 +1,13 @@
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/bin/Debug/netcoreapp3.1/IEnumerableIEnumerator
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/bin/Debug/netcoreapp3.1/IEnumerableIEnumerator.deps.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/bin/Debug/netcoreapp3.1/IEnumerableIEnumerator.runtimeconfig.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/bin/Debug/netcoreapp3.1/IEnumerableIEnumerator.runtimeconfig.dev.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/bin/Debug/netcoreapp3.1/IEnumerableIEnumerator.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/bin/Debug/netcoreapp3.1/IEnumerableIEnumerator.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/Debug/netcoreapp3.1/IEnumerableIEnumerator.csprojAssemblyReference.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/Debug/netcoreapp3.1/IEnumerableIEnumerator.AssemblyInfoInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/Debug/netcoreapp3.1/IEnumerableIEnumerator.AssemblyInfo.cs
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/Debug/netcoreapp3.1/IEnumerableIEnumerator.csproj.CoreCompileInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/Debug/netcoreapp3.1/IEnumerableIEnumerator.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/Debug/netcoreapp3.1/IEnumerableIEnumerator.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/Debug/netcoreapp3.1/IEnumerableIEnumerator.genruntimeconfig.cache
