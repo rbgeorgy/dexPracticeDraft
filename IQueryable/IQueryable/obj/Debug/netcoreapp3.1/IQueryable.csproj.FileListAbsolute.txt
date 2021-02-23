@@ -1,0 +1,13 @@
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/bin/Debug/netcoreapp3.1/IQueryable
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/bin/Debug/netcoreapp3.1/IQueryable.deps.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/bin/Debug/netcoreapp3.1/IQueryable.runtimeconfig.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/bin/Debug/netcoreapp3.1/IQueryable.runtimeconfig.dev.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/bin/Debug/netcoreapp3.1/IQueryable.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/bin/Debug/netcoreapp3.1/IQueryable.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/obj/Debug/netcoreapp3.1/IQueryable.csprojAssemblyReference.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/obj/Debug/netcoreapp3.1/IQueryable.AssemblyInfoInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/obj/Debug/netcoreapp3.1/IQueryable.AssemblyInfo.cs
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/obj/Debug/netcoreapp3.1/IQueryable.csproj.CoreCompileInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/obj/Debug/netcoreapp3.1/IQueryable.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/obj/Debug/netcoreapp3.1/IQueryable.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IQueryable/IQueryable/obj/Debug/netcoreapp3.1/IQueryable.genruntimeconfig.cache
