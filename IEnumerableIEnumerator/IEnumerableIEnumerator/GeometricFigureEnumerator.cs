@@ -8,7 +8,7 @@ namespace IEnumerableIEnumerator
         public GeometricFigure[] Figures;
         private int _position = -1;
 
-        public GeometricFigureEnumerator(GeometricFigure[] items)
+        public GeometricFigureEnumerator(GeometricFigure[] items) //Проверить на null
         {
             Figures = items;
         }
