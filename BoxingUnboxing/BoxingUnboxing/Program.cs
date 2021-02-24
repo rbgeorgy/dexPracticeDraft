@@ -10,7 +10,7 @@ namespace BoxingUnboxing
             double toBox = Math.PI;
             watchBoxing.Start();
             object toBoxObject = toBox;
-            for (int i = 0; i < 100000; i++)
+            for (int i = 0; i < 1000000; i++)
             {
                 toBoxObject = toBox;
             }
@@ -20,7 +20,7 @@ namespace BoxingUnboxing
             var watchUnoxing = new System.Diagnostics.Stopwatch();
             watchUnoxing.Start();
             double unboxedDouble = (double) toBoxObject;
-            for (int i = 0; i < 100000; i++)
+            for (int i = 0; i < 1000000; i++)
             {
                 unboxedDouble = (double) toBoxObject;
             }
