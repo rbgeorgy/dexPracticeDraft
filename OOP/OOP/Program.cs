@@ -11,7 +11,7 @@ namespace OOP
             Console.WriteLine(cow.GetInfo());
             Console.WriteLine(dragon.GetInfo());
             Console.WriteLine();
-            var zoo = new Animal[] { new Cow(), new Dragon()};
+            var zoo = new Animal[] { new Cow(), new Dragon()};////&&&
 
             foreach (var animal in zoo)
             {

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/georgiy/.nuget/packages/": {}
+    "/home/georgy/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/IEnumerableIEnumerator.csproj",
+      "projectUniqueName": "/home/georgy/Desktop/dexPracticeDraft/IEnumerableIEnumerator/IEnumerableIEnumerator/IEnumerableIEnumerator.csproj",
       "projectName": "IEnumerableIEnumerator",
-      "projectPath": "/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/IEnumerableIEnumerator.csproj",
-      "packagesPath": "/home/georgiy/.nuget/packages/",
-      "outputPath": "/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/",
+      "projectPath": "/home/georgy/Desktop/dexPracticeDraft/IEnumerableIEnumerator/IEnumerableIEnumerator/IEnumerableIEnumerator.csproj",
+      "packagesPath": "/home/georgy/.nuget/packages/",
+      "outputPath": "/home/georgy/Desktop/dexPracticeDraft/IEnumerableIEnumerator/IEnumerableIEnumerator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/georgiy/.nuget/NuGet/NuGet.Config"
+        "/home/georgy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -51,12 +53,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.8, 3.1.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.1.9, 3.1.9]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.406/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

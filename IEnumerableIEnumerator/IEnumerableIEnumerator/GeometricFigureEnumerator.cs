@@ -10,7 +10,7 @@ namespace IEnumerableIEnumerator
 
         public GeometricFigureEnumerator(GeometricFigure[] items)
         {
-            Figures = items;
+            Figures = items ?? throw new ArgumentNullException(nameof(items));
         }
 
         public bool MoveNext()
