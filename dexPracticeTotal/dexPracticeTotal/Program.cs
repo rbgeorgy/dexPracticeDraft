@@ -3,6 +3,7 @@ using OOPClassLibrary;
 using ValueTypeAndReferenceTypeClassLibrary;
 using CastingAndTypeConversionClassLibrary;
 using BoxingUnboxingClassLibrary;
+using dexPracticeTotal.EqualityClassLibrary;
 using IEnumerableIEnumeratorClassLibrary;
 using IQueryableClassLibrary;
 using IComparableClassLibrary;
@@ -40,6 +41,9 @@ namespace dexPracticeTotal
                         break;
                     case "9":
                         IComparableProgramClassLibrary.RunProgram();
+                        break;
+                    case "10":
+                        EqualityProgram.RunProgram();
                         break;
                     case "q":
                         return;
