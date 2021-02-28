@@ -1,0 +1,13 @@
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/bin/Debug/netcoreapp3.1/IComparable
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/bin/Debug/netcoreapp3.1/IComparable.deps.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/bin/Debug/netcoreapp3.1/IComparable.runtimeconfig.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/bin/Debug/netcoreapp3.1/IComparable.runtimeconfig.dev.json
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/bin/Debug/netcoreapp3.1/IComparable.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/bin/Debug/netcoreapp3.1/IComparable.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/obj/Debug/netcoreapp3.1/IComparable.csprojAssemblyReference.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/obj/Debug/netcoreapp3.1/IComparable.AssemblyInfoInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/obj/Debug/netcoreapp3.1/IComparable.AssemblyInfo.cs
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/obj/Debug/netcoreapp3.1/IComparable.csproj.CoreCompileInputs.cache
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/obj/Debug/netcoreapp3.1/IComparable.dll
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/obj/Debug/netcoreapp3.1/IComparable.pdb
+/media/georgiy/74dcc2df-9dca-4ce7-a939-5ddcc5a11ffc/DEVBRSNCh/RiderProjects/IComparable/IComparable/obj/Debug/netcoreapp3.1/IComparable.genruntimeconfig.cache
