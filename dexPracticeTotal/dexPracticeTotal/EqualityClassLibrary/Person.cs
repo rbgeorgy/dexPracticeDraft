@@ -57,5 +57,13 @@ namespace dexPracticeTotal.EqualityClassLibrary
                    BirthPlace.GetHashCode() +
                    PassportNumber.GetHashCode();
         }
+
+        public override string ToString()
+        {
+            return new String("Имя: " + NameSurname + 
+                              ", Дата Рождения: " + DateOfBirth +
+                              ", Место рождения " + BirthPlace +
+                              ", Номер паспорта: " + PassportNumber);
+        }
     }
 }

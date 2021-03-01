@@ -4,6 +4,8 @@ using ValueTypeAndReferenceTypeClassLibrary;
 using CastingAndTypeConversionClassLibrary;
 using BoxingUnboxingClassLibrary;
 using dexPracticeTotal.EqualityClassLibrary;
+using dexPracticeTotal.GenericClassLibrary;
+using dexPracticeTotal.ListAndDictionary;
 using IEnumerableIEnumeratorClassLibrary;
 using IQueryableClassLibrary;
 using IComparableClassLibrary;
@@ -40,10 +42,16 @@ namespace dexPracticeTotal
                         IQueryableProgram.RunProgram();
                         break;
                     case "9":
-                        IComparableProgramClassLibrary.RunProgram();
+                        IComparableProgram.RunProgram();
                         break;
                     case "10":
                         EqualityProgram.RunProgram();
+                        break;
+                    case "11":
+                        ListAndDictionaryProgram.RunProgram();
+                        break;
+                    case "12":
+                        UniqueCollectionProgram.RunProgram();
                         break;
                     case "q":
                         return;

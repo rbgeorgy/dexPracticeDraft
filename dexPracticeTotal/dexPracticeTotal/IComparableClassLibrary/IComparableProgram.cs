@@ -1,7 +1,7 @@
 ﻿using System;
 namespace IComparableClassLibrary
 {
-    static class IComparableProgramClassLibrary
+    static class IComparableProgram
     {
         private static Figure[] _figureArray;
         public static void Generate()
