@@ -25,9 +25,8 @@ namespace IComparableClassLibrary
                             {
                                 _figureArray[i] = new Triangle((rand.Next(1, 10)), rand.Next(1, 10), rand.Next(1, 10));
                             }
-                            catch (Exception e)
+                            catch (Exception)
                             {
-                                Console.WriteLine("Не удалось сгенерировать треугольник. Пробуем ещё раз..");
                             }
                         }
                         break;
@@ -50,8 +49,17 @@ namespace IComparableClassLibrary
             Console.WriteLine("Отсортированный с помощью PerimeterComparer<Figure> массив: ");
             foreach (var item in _figureArray)
             {
-                Console.WriteLine(item + " с периметром: " + item.GetSquare());
+                Console.WriteLine(item + " с периметром: " + item.GetPerimeter());
             }
+            Console.WriteLine();
+            
+            Array.Sort(_figureArray);
+            Console.WriteLine("Отсортированный с помощью PerimeterComparer<Figure> массив: ");
+            foreach (var item in _figureArray)
+            {
+                Console.WriteLine(item + " с периметром: " + item.GetPerimeter());
+            }
+            
         }
 
         public static void RunProgram()
