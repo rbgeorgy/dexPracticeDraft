@@ -35,6 +35,11 @@ namespace IComparableClassLibrary
             return Math.Sqrt(halfPerimeter*(halfPerimeter-_aSide)*(halfPerimeter-_bSide)*(halfPerimeter-_cSide));
         }
         
+        public override double GetPerimeter()
+        {
+            return _aSide + _bSide + _cSide;
+        }
+        
         public override string ToString()
         {
             return "Треугольник";

@@ -5,6 +5,7 @@ namespace IComparableClassLibrary
     public abstract class Figure : System.IComparable
     {
         public abstract double GetSquare();
+        public abstract double GetPerimeter();
 
         public int CompareTo(object other)
         {

@@ -22,6 +22,11 @@ namespace IComparableClassLibrary
             return _radius * _radius * Math.PI;
         }
         
+        public override double GetPerimeter()
+        {
+            return 2 * _radius * Math.PI;
+        }
+        
         public override string ToString()
         {
             return "Круг";

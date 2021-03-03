@@ -25,6 +25,11 @@ namespace IComparableClassLibrary
             return _aSide * _bSide;
         }
 
+        public override double GetPerimeter()
+        {
+            return  2 * (_aSide + _bSide);
+        }
+
         public override string ToString()
         {
             return "Прямоугольник";
