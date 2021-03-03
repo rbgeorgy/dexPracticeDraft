@@ -53,12 +53,6 @@ namespace IComparableClassLibrary
             }
             Console.WriteLine();
             
-            Array.Sort(_figureArray);
-            Console.WriteLine("Отсортированный с помощью PerimeterComparer<Figure> массив: ");
-            foreach (var item in _figureArray)
-            {
-                Console.WriteLine(item + " с периметром: " + item.GetPerimeter());
-            }
             
         }
 
